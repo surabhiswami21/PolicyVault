@@ -1,0 +1,78 @@
+.policies-container{
+    padding:30px;
+}
+
+.policy-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:20px;
+}
+
+.policy-header button{
+    background:#3F1F5D;
+    color:white;
+    border:none;
+    padding:10px 18px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+}
+
+th{
+    background:#3F1F5D;
+    color:white;
+    padding:15px;
+}
+
+td{
+    padding:15px;
+    border-bottom:1px solid #ddd;
+}
+
+.edit-btn{
+    background:#4CAF50;
+    color:white;
+    border:none;
+    padding:8px 15px;
+    border-radius:6px;
+    margin-right:8px;
+    cursor:pointer;
+}
+
+.delete-btn{
+    background:#F44336;
+    color:white;
+    border:none;
+    padding:8px 15px;
+    border-radius:6px;
+    cursor:pointer;
+}
+.search-box{
+
+    width:320px;
+
+    padding:12px;
+
+    margin:20px 0;
+
+    border:1px solid #ddd;
+
+    border-radius:8px;
+
+    font-size:15px;
+
+    outline:none;
+
+}
+
+.search-box:focus{
+
+    border:2px solid #3F1F5D;
+
+}

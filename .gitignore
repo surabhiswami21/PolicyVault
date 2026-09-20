@@ -1,0 +1,38 @@
+# ===============================
+# IntelliJ IDEA
+# ===============================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ===============================
+# Java / Maven
+# ===============================
+policyvault-backend/target/
+policyvault-backend/.mvn/
+
+# ===============================
+# Environment files
+# ===============================
+.env
+.env.local
+.env.production
+*.env
+
+# ===============================
+# Node
+# ===============================
+policyvault-frontend/node_modules/
+policyvault-frontend/dist/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
