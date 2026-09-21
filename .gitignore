@@ -10,7 +10,6 @@
 # Java / Maven
 # ===============================
 policyvault-backend/target/
-policyvault-backend/.mvn/
 
 # ===============================
 # Environment files
